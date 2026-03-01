@@ -16,7 +16,7 @@ checkpoints/
 *.pt
 *.ckpt
 
-data/
+
 datasets/
 
 .ipynb_checkpoints/
